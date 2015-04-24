@@ -1,0 +1,1 @@
+docker create --restart=always --link redis:redis --name hubot hubot
