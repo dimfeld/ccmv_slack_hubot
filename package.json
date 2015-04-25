@@ -1,5 +1,5 @@
 {
-  "name": "botts",
+  "name": "Rob",
   "version": "0.0.0",
   "private": true,
   "author": "daniel@danielimfeld.com",
@@ -18,7 +18,17 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "~2.5.16",
     "hubot-slack": "~3.3.0",
-    "hubot": "~2.12.0"
+    "hubot": "~2.12.0",
+    "hubot-where": "~0.1.0",
+    "hubot-react": "~4.1.1",
+    "hubot-trollbot": "~0.1.1",
+    "hubot-sentiment": "~1.2.6",
+    "hubot-emoji": "~1.0.1",
+    "hubot-insanedomains": "0.0.2",
+    "hubot-open-weather-map": "0.0.2",
+    "hubot-ross": "~1.0.1",
+    "hubot-plusplus-userverify": "~1.0.0",
+    "hubot-word-joiner": "0.0.1"
   },
   "engines": {
     "node": "0.10.x"
