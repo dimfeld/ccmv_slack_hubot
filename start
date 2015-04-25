@@ -1,3 +1,3 @@
 export REDIS_URL=redis://${REDIS_PORT_6379_TCP_ADDR}:${REDIS_PORT_6379_TCP_PORT} 
 echo $REDIS_URL
-HUBOT_OPEN_WEATHER_MAP_DEFAULT_CITIES="Houston,TX;Sunnyvale,CA" HUBOT_SLACK_TOKEN=xoxb-4616749823-fFLRMf4IH7EueKoaoUmgKFz0 bin/hubot --adapter slack
+HUBOT_OPEN_WEATHER_MAP_DEFAULT_CITIES="Houston,TX;Sunnyvale,CA" bin/hubot --adapter slack
